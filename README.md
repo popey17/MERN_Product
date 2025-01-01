@@ -66,7 +66,7 @@ This is the projcet of MERN stack with the use of Zustand for state management.
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
