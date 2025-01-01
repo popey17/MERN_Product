@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![MERN CRUD Training]([https://example.com](https://mern-product-y5ij.onrender.com/))
+[MERN CRUD Training]([https://example.com](https://mern-product-y5ij.onrender.com/))
 This is the projcet of MERN stack with the use of Zustand for state management.
 
 
@@ -66,7 +66,7 @@ This is the projcet of MERN stack with the use of Zustand for state management.
 
 ### Built With
 
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
